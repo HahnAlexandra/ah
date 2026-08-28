@@ -28,7 +28,7 @@ You can contact me if you would like to collaborate.
 
 
 [publications]: publications.md
-[interests]:interests.md
+[interests]: interests.md
 [coloring book]: book.md
 [icons]: icons.md
 
