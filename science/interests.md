@@ -14,7 +14,7 @@ My work combines ship-based sampling, with common-garden cultures, and molecular
 
 Find a list of my publications [here]({{ '/science/publications/' | relative_url }})
 
-Keep reading to get some impressions of my field and lab work.
+Keep reading below to get some impressions of my field and lab work.
 
 ## Scientific cruises
 
