@@ -9,7 +9,7 @@ permalink: /about-me/
 ---
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;" markdown="1">
-<img src="{{ '/assets/img/about-me/IMG_0400@0,125x.jpg' | relative_url }}" alt="Portrait" style="max-width: 350px; width: 100%; border-radius: 8px;">
+<img src="{{ '/assets/img/about-me/IMG_0400@0,25x.jpg' | relative_url }}" alt="Portrait" style="max-width: 350px; width: 100%; border-radius: 8px;">
 <div markdown="1" style="flex: 1;">
 Hi, I am Alex! An evolutionary biologist with a passion for creating art.
 
