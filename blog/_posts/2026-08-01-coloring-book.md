@@ -21,7 +21,7 @@ From now on, the coloring book is also available for download on the GEOMAR webs
 
 Download now, get out your crayons and discover the Baltic Sea!
 
-Photo credit: Janne LenePolei, GEOMAR
+Photo credit: Janne Lene Polei, GEOMAR
 Cover design: Alexandra Hahn, GEOMAR
 
 
