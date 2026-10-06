@@ -18,7 +18,7 @@ Keep reading below to get some impressions of my field and lab work.
 
 ## Scientific cruises
 
-![Cruise](/assets/img/projects/cruise.png)
+![Cruise](/assets/img/projects/cruise@0,5x.png)
 
 During my scientific career, I was fortunate to join several research cruises. On some of them I participated as a student learning the ropes of life on sea and getting first hand experience operating gear such as Bongo, WP2, and CTDs, doing eDNA filtration and oxygen measurements, and of course identifying zooplankton and fish larvae as part of ecological surveys. 
 During my doctoral phase, participating cruises allowed me to sample copepods for my own work. All throughout the Baltic Sea, I collected life animals to start lab cultures and preserved individuals for genetic analyses. 
@@ -27,11 +27,11 @@ During my doctoral phase, participating cruises allowed me to sample copepods fo
 
 Working with copepods has taught me a lot about keeping live cultures. From monitoring culture conditions to growing micro algae for feeding, maintaining experimental cultures requires consistent work and dedication. In my case, keeping common-gardened strains from different sampling sites, allowed me to generate a fascinating physiological data set.
 
-![Culturing](/assets/img/projects/culturing.png)
+![Culturing](/assets/img/projects/culturing@0,5x.png)
 
 ## Microscopy
 
 In my first job at GEOMAR as a research assistant for Dr. Catriona Clemmesen-Bockelmann, I analyzed zooplankton samples for a Baltic time series. These first experiences in copepod identification were what ultimately led me down the research path I would take in the coming years and to the thousands of copepods I would see through the lens of a binocular.
 
-![Microscopy](/assets/img/projects/microscopy.png)
+![Microscopy](/assets/img/projects/microscopy@0,5x.png)
 
